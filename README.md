@@ -2,8 +2,7 @@
 Dive into the future of board games with our cutting-edge project: an interactive chess game where you match wits against a robotic arm. Developed for the NVIDIA Jetson Nano and leveraging the power of Python, this project brings the classic game of chess into the realm of robotics and computer vision. Utilizing the precision of the Realsense D435 camera for image processing, we've created a system that not only recognizes each piece on the chessboard but also calculates their positions relative to the XArm lite6 robotic arm. Integrated with an advanced chess engine, the robotic arm contemplates and executes moves with strategic prowess, offering players of all levels a challenging and educational experience.
 
 
-[![Click for Demonstration](https://img.youtube.com/vi/AuNZ1bBzrGg&/0.jpg)](https://www.youtube.com/watch?v=AuNZ1bBzrGg&)
-
+[![RoboChess](https://i.stack.imgur.com/q3ceS.png)](https://www.youtube.com/watch?v=AuNZ1bBzrGg& "RoboChess")
 
 
 
