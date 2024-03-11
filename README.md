@@ -7,6 +7,8 @@ https://github.com/ahmadgh99/RoboticChess/assets/125828484/f1cedf0d-059c-496d-ac
 
 https://github.com/ahmadgh99/RoboticChess/assets/125828484/b6383675-e6f1-40d1-b221-8c7bee1e330d
 
+[![Click for Demonstration](https://img.youtube.com/vi/AuNZ1bBzrGg&/0.jpg)](https://www.youtube.com/watch?v=AuNZ1bBzrGg&)
+
 
 
 
